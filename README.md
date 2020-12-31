@@ -1,6 +1,10 @@
 # Admin-Panel-Scanner
 This tool helps to find Admin Login pages in Website
 
+ScreenShot :-
+
+![Test Image 3](/SS.png)
+
 Requirements :- 
 
 Python 2.7
