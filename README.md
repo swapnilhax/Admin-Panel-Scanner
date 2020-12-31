@@ -3,8 +3,7 @@ This tool helps to find Admin Login pages in Website
 
 ScreenShot :-
 
-(SS.png)
-https://github.com/swapnilhax/Admin-Panel-Scanner/blob/main/SS.PNG
+![Architecture](SS.png)
 
 Requirements :- 
 
