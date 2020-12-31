@@ -3,7 +3,7 @@ This tool helps to find Admin Login pages in Website
 
 ScreenShot :-
 
-![picture](SS.png)
+![picture](Screenshot.png)
 
 Requirements :- 
 
